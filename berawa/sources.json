@@ -1,0 +1,54 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelrector.com/",
+ "read_at": "2026-10-30T07:22:18+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelrector.com",
+   "sha256": "f2a5225d5eb6b5a4cd4edbb5d5e7b09238925387ff59e8cfec80cde774d6e6c5",
+   "chars": 2597
+  },
+  {
+   "url": "https://www.hotelrector.com/",
+   "sha256": "bbe4b2a34f8eb59602636d6c155cb211da5fc9d3cb0510fcd5dca12df9b97b84",
+   "chars": 8290
+  },
+  {
+   "url": "https://www.hotelrector.com/garaje-privado.html",
+   "sha256": "b67562384626052845b8d3344f4a624c488d88d3614680bbec5653917fc0626c",
+   "chars": 4301
+  },
+  {
+   "url": "https://www.hotelrector.com/habitacion-familiar.html",
+   "sha256": "700bc599467875bd373db332926c035c9d87a3b3f14df13e06a6948e0fef12ea",
+   "chars": 4576
+  },
+  {
+   "url": "https://www.hotelrector.com/ubicacion.html",
+   "sha256": "239d19b87b961d6e000016a79845f460a39f06dc6a1aa9204069c1d700aa770d",
+   "chars": 5542
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelrector.com/EN/home.html",
+  "https://www.hotelrector.com/FR/home.html",
+  "https://www.hotelrector.com/Hotel-Rector.html",
+  "https://www.hotelrector.com/aviso-legal.html",
+  "https://www.hotelrector.com/catedral-de-salamanca.html",
+  "https://www.hotelrector.com/contacto.html",
+  "https://www.hotelrector.com/convento-de-san-esteban.html",
+  "https://www.hotelrector.com/cookies.html",
+  "https://www.hotelrector.com/galeria.html",
+  "https://www.hotelrector.com/habitacion-doble-superior.html",
+  "https://www.hotelrector.com/habitacion-doble.html",
+  "https://www.hotelrector.com/habitacion-individual-deluxe.html",
+  "https://www.hotelrector.com/habitaciones.html",
+  "https://www.hotelrector.com/jardines-de-calixto-y-melibea.html",
+  "https://www.hotelrector.com/junior-suite-interior.html",
+  "https://www.hotelrector.com/plaza-mayor-de-salamanca.html",
+  "https://www.hotelrector.com/puente-romano-de-salamanca.html",
+  "https://www.hotelrector.com/suite-deluxe.html",
+  "https://www.hotelrector.com/universidad-de-salamanca.html"
+ ]
+}
