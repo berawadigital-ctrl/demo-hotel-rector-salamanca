@@ -1,0 +1,464 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-rector-salamanca",
+ "source_site": "https://www.hotelrector.com/",
+ "source_read_at": "2026-10-30T07:22:18+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitacion",
+     "habitaciones",
+     "dormitorio",
+     "individual",
+     "doble",
+     "superior",
+     "suite"
+    ],
+    "en": [
+     "room",
+     "rooms",
+     "bedroom",
+     "single",
+     "double",
+     "superior",
+     "suite"
+    ],
+    "fr": [
+     "chambre",
+     "chambres",
+     "individuel",
+     "double",
+     "superieure",
+     "suite"
+    ],
+    "de": [
+     "welche zimmer",
+     "einzelzimmer",
+     "doppelzimmer",
+     "superior",
+     "suite"
+    ]
+   },
+   "a": {
+    "es": "Hay 14 habitaciones de 6 clases: doble, doble superior, Junior Suite Interior, Suite Deluxe, familiar e individual deluxe. Todas con aire acondicionado, Smart TV, WiFi gratuito, agua mineral de cortesía, cafetera y hervidor, baño de mármol con amenities deluxe, albornoz y zapatillas.",
+    "en": "There are 14 rooms in 6 types: double, superior double, Interior Junior Suite, Deluxe Suite, family and deluxe single. All with air conditioning, Smart TV, free WiFi, complimentary mineral water, coffee maker and kettle, marble bathroom with deluxe amenities, bathrobe and slippers.",
+    "fr": "Il y a 14 chambres de 6 types : double, double supérieure, Junior Suite intérieure, Suite Deluxe, familiale et individuelle deluxe. Toutes avec climatisation, Smart TV, WiFi gratuit, eau minérale offerte, cafetière et bouilloire, salle de bains en marbre avec produits deluxe, peignoir et chaussons.",
+    "de": "Es gibt 14 Zimmer in 6 Kategorien: Doppelzimmer, Superior-Doppelzimmer, Junior Suite Interior, Suite Deluxe, Familienzimmer und Einzelzimmer Deluxe. Alle mit Klimaanlage, Smart-TV, kostenlosem WLAN, Mineralwasser, Kaffeemaschine und Wasserkocher, Marmorbad mit Deluxe-Pflegeprodukten, Bademantel und Hausschuhen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelrector.com/",
+     "quote": "En Hotel Rector contamos con 14 habitaciones amplias"
+    },
+    {
+     "url": "https://www.hotelrector.com/",
+     "quote": "El hotel cuenta con 6 clases de habitaciones"
+    },
+    {
+     "url": "https://www.hotelrector.com/",
+     "quote": "Contiene un baño de mármol con amenities deluxe, además de albornoz y zapatillas. Incluye aire acondicionado, Smart TV de gran tamaño, conexión Wi-Fi gratuita, agua mineral de cortesía, cafetera y hervidor de agua, entre otros."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "familias",
+   "keys": {
+    "es": [
+     "familiar",
+     "familia",
+     "cinco",
+     "niño",
+     "nino",
+     "hijos"
+    ],
+    "en": [
+     "family room",
+     "family",
+     "five",
+     "child",
+     "kids"
+    ],
+    "fr": [
+     "familiale",
+     "famille",
+     "cinq",
+     "enfant"
+    ],
+    "de": [
+     "familienzimmer",
+     "familie",
+     "funf",
+     "kind"
+    ]
+   },
+   "a": {
+    "es": "La habitación familiar son dos habitaciones dobles completas, con dos baños, unidas por un pasillo privado. Admite hasta 5 huéspedes. La Junior Suite Interior tiene dos camas dobles y un amplio salón.",
+    "en": "The family room is two full double rooms with two bathrooms, joined by a private corridor. It sleeps up to 5 guests. The Interior Junior Suite has two double beds and a large lounge.",
+    "fr": "La chambre familiale se compose de deux chambres doubles complètes avec deux salles de bains, reliées par un couloir privé, pour 5 personnes maximum. La Junior Suite intérieure a deux lits doubles et un grand salon.",
+    "de": "Das Familienzimmer besteht aus zwei vollständigen Doppelzimmern mit zwei Bädern, verbunden durch einen privaten Flur, für bis zu 5 Gäste. Die Junior Suite Interior hat zwei Doppelbetten und einen großen Wohnbereich."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelrector.com/habitacion-familiar.html",
+     "quote": "Nuestra Habitación familiar está compuesta por dos habitaciones dobles completas, con dos baños y unidas por un pasillo privado. Perfecta para familias."
+    },
+    {
+     "url": "https://www.hotelrector.com/habitacion-familiar.html",
+     "quote": "Ocupación máxima 5 huéspedes."
+    },
+    {
+     "url": "https://www.hotelrector.com/",
+     "quote": "Esta amplia Junior Suite Interior está equipada con dos camas dobles y un amplio salón."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "garaje",
+   "keys": {
+    "es": [
+     "garaje",
+     "parking",
+     "aparc",
+     "coche"
+    ],
+    "en": [
+     "garage",
+     "parking",
+     "car park"
+    ],
+    "fr": [
+     "garage",
+     "parking",
+     "garer",
+     "voiture"
+    ],
+    "de": [
+     "garage",
+     "parkplatz",
+     "parken",
+     "auto"
+    ]
+   },
+   "a": {
+    "es": "Sí: hay un aparcamiento privado de uso exclusivo para huéspedes, con acceso directo desde el lobby del hotel. Es muy sencillo llegar en coche.",
+    "en": "Yes: there is a private car park for guests only, with direct access from the hotel lobby. It is very easy to arrive by car.",
+    "fr": "Oui : un parking privé réservé aux clients, avec accès direct depuis le hall de l'hôtel. Il est très facile d'arriver en voiture.",
+    "de": "Ja: Es gibt eine private Garage nur für Hotelgäste mit direktem Zugang von der Lobby. Die Anreise mit dem Auto ist sehr einfach."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelrector.com/garaje-privado.html",
+     "quote": "Disponemos de aparcamiento privado de uso exclusivo para nuestros huéspedes y con acceso directo desde el lobby del hotel."
+    },
+    {
+     "url": "https://www.hotelrector.com/ubicacion.html",
+     "quote": "Del mismo modo, es muy sencillo llegar hasta el hotel en coche."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "carga electrica",
+   "keys": {
+    "es": [
+     "electric",
+     "cargar",
+     "cargador",
+     "punto de carga",
+     "enchufe"
+    ],
+    "en": [
+     "electric",
+     "charge",
+     "charging",
+     "ev "
+    ],
+    "fr": [
+     "electrique",
+     "recharg",
+     "borne"
+    ],
+    "de": [
+     "elektro",
+     "laden",
+     "ladestation",
+     "ladepunkt"
+    ]
+   },
+   "a": {
+    "es": "Sí: el garaje tiene varios puntos de carga para todo tipo de vehículos eléctricos, con velocidad de carga de hasta 22 kW.",
+    "en": "Yes: the garage has several charging points for all types of electric vehicles, with charging speeds of up to 22 kW.",
+    "fr": "Oui : le garage dispose de plusieurs bornes de recharge pour tout type de véhicule électrique, jusqu'à 22 kW.",
+    "de": "Ja: Die Garage hat mehrere Ladepunkte für alle Arten von Elektrofahrzeugen mit bis zu 22 kW Ladeleistung."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelrector.com/garaje-privado.html",
+     "quote": "nuestro garaje está equipado con varios puntos de carga para todo tipo de vehículos eléctricos , con velocidad de carga de hasta 22kw"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayun",
+     "room service",
+     "comedor",
+     "cafeteria"
+    ],
+    "en": [
+     "breakfast",
+     "room service",
+     "dining",
+     "cafeteria"
+    ],
+    "fr": [
+     "petit-dejeuner",
+     "petit dejeuner",
+     "room service",
+     "salle a manger",
+     "cafeteria"
+    ],
+    "de": [
+     "fruhstuck",
+     "room service",
+     "zimmerservice",
+     "speisesaal",
+     "cafeteria"
+    ]
+   },
+   "a": {
+    "es": "En el comedor se sirve un exclusivo desayuno bufet y hay carta de room service. La cafetería y los salones son solo para huéspedes alojados.",
+    "en": "An exclusive buffet breakfast is served in the dining room and there is a room service menu. The cafeteria and lounges are for resident guests only.",
+    "fr": "Un petit-déjeuner buffet exclusif est servi dans la salle à manger et une carte de room service est proposée. La cafétéria et les salons sont réservés aux clients.",
+    "de": "Im Speisesaal gibt es ein exklusives Frühstücksbuffet sowie eine Room-Service-Karte. Cafeteria und Salons sind nur für Hotelgäste."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelrector.com/",
+     "quote": "Entre las instalaciones del hotel contamos con un comedor, donde podrás disfrutar de un exclusivo desayuno bufet , así como de nuestra carta de room service."
+    },
+    {
+     "url": "https://www.hotelrector.com/",
+     "quote": "Todas nuestras estancias, como la cafetería y los salones, son de uso exclusivo para huéspedes alojados"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "gimnasio",
+   "keys": {
+    "es": [
+     "gimnasio",
+     "gym",
+     "deporte",
+     "fitness"
+    ],
+    "en": [
+     "gym",
+     "fitness",
+     "workout"
+    ],
+    "fr": [
+     "salle de sport",
+     "fitness",
+     "sport"
+    ],
+    "de": [
+     "fitness",
+     "sport",
+     "trainieren"
+    ]
+   },
+   "a": {
+    "es": "Sí, el hotel tiene un pequeño gimnasio perfectamente equipado.",
+    "en": "Yes, the hotel has a small, fully equipped gym.",
+    "fr": "Oui, l'hôtel dispose d'une petite salle de sport parfaitement équipée.",
+    "de": "Ja, das Hotel hat einen kleinen, bestens ausgestatteten Fitnessraum."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelrector.com/",
+     "quote": "un pequeño gimnasio perfectamente equipado"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "llegar",
+     "mapa",
+     "centro",
+     "catedral",
+     "plaza mayor",
+     "cerca"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "get there",
+     "map",
+     "centre",
+     "cathedral",
+     "nearby"
+    ],
+    "fr": [
+     " ou ",
+     "adresse",
+     "situe",
+     "acces",
+     "centre",
+     "cathedrale",
+     "proche"
+    ],
+    "de": [
+     " wo ",
+     "adresse",
+     "liegt",
+     "anfahrt",
+     "zentrum",
+     "kathedrale",
+     "nahe"
+    ]
+   },
+   "a": {
+    "es": "Está en P.º del Rector Esperabé, 10, 37008 Salamanca, en el centro histórico, cerca de la Casa Lis, la Catedral y el Puente Romano, a pocos minutos andando de los principales monumentos.",
+    "en": "It is at P.º del Rector Esperabé, 10, 37008 Salamanca, in the historic centre, near the Casa Lis, the Cathedral and the Roman Bridge, a few minutes on foot from the main monuments.",
+    "fr": "L'hôtel se trouve P.º del Rector Esperabé, 10, 37008 Salamanque, dans le centre historique, près de la Casa Lis, de la cathédrale et du pont romain, à quelques minutes à pied des principaux monuments.",
+    "de": "Das Hotel liegt am P.º del Rector Esperabé, 10, 37008 Salamanca, in der Altstadt, nahe der Casa Lis, der Kathedrale und der Römerbrücke, wenige Gehminuten von den wichtigsten Sehenswürdigkeiten."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelrector.com/",
+     "quote": "Dirección P.º del Rector Esperabé, 10 37008 Salamanca"
+    },
+    {
+     "url": "https://www.hotelrector.com/",
+     "quote": "cerca de La Casa Lis (museo de art déco y art noveau), la Catedral de Salamanca y del Puente Romano"
+    },
+    {
+     "url": "https://www.hotelrector.com/ubicacion.html",
+     "quote": "A pocos minutos andando de todos los principales monumentos, museos y mejores restaurantes de la ciudad."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "libre",
+     "fecha"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm",
+     "free room"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "libre",
+     "dates"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig",
+     "termin"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en la página de reservas de su web (botón Reservar), llamar al +34 923 218 482 o escribir a info@hotelrector.com. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book on their website's booking page (Book button), call +34 923 218 482 or write to info@hotelrector.com. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur la page de réservation de leur site (bouton Réserver), appeler le +34 923 218 482 ou écrire à info@hotelrector.com. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsseite der Website buchen (Schaltfläche Buchen), unter +34 923 218 482 anrufen oder an info@hotelrector.com schreiben. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelrector.com",
+     "quote": "CONTACTO +34 923 218 482 info@hotelrector.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "historia",
+   "keys": {
+    "es": [
+     "historia",
+     "edificio",
+     "1930",
+     "casa",
+     "boutique"
+    ],
+    "en": [
+     "history",
+     "building",
+     "1930",
+     "house",
+     "boutique"
+    ],
+    "fr": [
+     "histoire",
+     "batiment",
+     "1930",
+     "maison",
+     "boutique"
+    ],
+    "de": [
+     "geschichte",
+     "gebaude",
+     "1930",
+     "boutique"
+    ]
+   },
+   "a": {
+    "es": "Es un hotel boutique ubicado en una antigua casa de 1930 en el centro histórico de Salamanca, donde prima el servicio al cliente y el descanso de los huéspedes.",
+    "en": "It is a boutique hotel in a former house from 1930 in the historic centre of Salamanca, focused on customer service and guests' rest.",
+    "fr": "C'est un hôtel boutique installé dans une ancienne maison de 1930 du centre historique de Salamanque, où priment le service et le repos des clients.",
+    "de": "Es ist ein Boutique-Hotel in einem ehemaligen Haus von 1930 in der Altstadt von Salamanca, bei dem Service und Erholung der Gäste im Mittelpunkt stehen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelrector.com/",
+     "quote": "El hotel está ubicado en una antigua casa de 1930"
+    },
+    {
+     "url": "https://www.hotelrector.com/",
+     "quote": "un hotel boutique en el centro histórico de la ciudad de Salamanca, en el que prima el servicio al cliente y el disfrute y descanso de todos nuestros huéspedes"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}

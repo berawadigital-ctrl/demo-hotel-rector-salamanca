@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-rector-salamanca",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-30T07:21:30+01:00",
+ "updated_at": "2026-10-30T07:35:00+01:00",
+ "business": {
+  "name": "Hotel Rector",
+  "legal_name": "HOTEL RESIDENCIA RECTOR S.A.",
+  "registry_ids": [
+   "CIF A37061728"
+  ],
+  "url": "https://www.hotelrector.com/",
+  "domain": "hotelrector.com",
+  "municipality": "Salamanca",
+  "province": "Salamanca",
+  "address": "P.º del Rector Esperabé, 10 · 37008 Salamanca",
+  "phones": [
+   "+34 923 218 482"
+  ],
+  "emails": [
+   "info@hotelrector.com"
+  ],
+  "sector": "hotel boutique de 14 habitaciones en una casa de 1930 del centro histórico de Salamanca"
+ },
+ "rating": {
+  "value": 4.9,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hotel+Rector/@40.9587517,-5.6657209,17z/data=!4m9!3m8!1s0xd3f266a8d000ae1:0xdec2c202d70b6b!5m2!4m1!1i2!8m2!3d40.9587517!4d-5.6657209!16s%2Fg%2F1tm0vg8j",
+  "date": "2026-10-29T13:00:15+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://www.hotelrector.com/reservar.html",
+  "note": "página de reservas real de su web (reservar.html en es; EN/book.html en en/fr/de), HTTP 200 comprobado el 30/10/2026; el botón Reservar de su portada lleva a reservar.html."
+ },
+ "audit_original": {
+  "url": "https://www.hotelrector.com/",
+  "date": "2026-10-30T06:53:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": null,
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}

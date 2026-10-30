@@ -1,0 +1,347 @@
+{
+ "url": "file:///tmp/zip-hotel-rector-salamanca/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay 14 habitaciones de 6 clases: doble, doble superior, Junior Suite Interior, Suite Deluxe, familiar e individual deluxe. Todas con aire ac"
+    },
+    {
+     "q": "Somos cinco, ¿tenéis habitación familiar?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La habitación familiar son dos habitaciones dobles completas, con dos baños, unidas por un pasillo privado. Admite hasta 5 huéspedes. La Jun"
+    },
+    {
+     "q": "¿Tenéis garaje?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: hay un aparcamiento privado de uso exclusivo para huéspedes, con acceso directo desde el lobby del hotel. Es muy sencillo llegar en coch"
+    },
+    {
+     "q": "Tengo coche eléctrico, ¿puedo cargarlo?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí: el garaje tiene varios puntos de carga para todo tipo de vehículos eléctricos, con velocidad de carga de hasta 22 kW."
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "En el comedor se sirve un exclusivo desayuno bufet y hay carta de room service. La cafetería y los salones son solo para huéspedes alojados."
+    },
+    {
+     "q": "¿Hay gimnasio?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, el hotel tiene un pequeño gimnasio perfectamente equipado."
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en P.º del Rector Esperabé, 10, 37008 Salamanca, en el centro histórico, cerca de la Casa Lis, la Catedral y el Puente Romano, a pocos "
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar en la página de reservas de su web (botón Reservar), llamar al +34 923 218 482 o escribir a info@hotelrector.com. Este asist"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar en la página de reservas de su web (botón Reservar), llamar al +34 923 218 482 o escribir a info@hotelrector.com. Este asist"
+    },
+    {
+     "q": "¿Qué historia tiene el edificio?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Es un hotel boutique ubicado en una antigua casa de 1930 en el centro histórico de Salamanca, donde prima el servicio al cliente y el descan"
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 923 218 482 · info@hotelrector.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 923 218 482 · info@hotelrector.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Tenéis garaje?",
+    "¿Hay desayuno?",
+    "¿Dónde está el hotel?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "svc1"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 14 rooms in 6 types: double, superior double, Interior Junior Suite, Deluxe Suite, family and deluxe single. All with air conditio"
+    },
+    {
+     "q": "We are five, do you have a family room?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The family room is two full double rooms with two bathrooms, joined by a private corridor. It sleeps up to 5 guests. The Interior Junior Sui"
+    },
+    {
+     "q": "Do you have a garage?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes: there is a private car park for guests only, with direct access from the hotel lobby. It is very easy to arrive by car."
+    },
+    {
+     "q": "I have an electric car, can I charge it?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes: the garage has several charging points for all types of electric vehicles, with charging speeds of up to 22 kW."
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "An exclusive buffet breakfast is served in the dining room and there is a room service menu. The cafeteria and lounges are for resident gues"
+    },
+    {
+     "q": "Is there a gym?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, the hotel has a small, fully equipped gym."
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at P.º del Rector Esperabé, 10, 37008 Salamanca, in the historic centre, near the Casa Lis, the Cathedral and the Roman Bridge, a few "
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book on their website's booking page (Book button), call +34 923 218 482 or write to info@hotelrector.com. This assistant does not c"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book on their website's booking page (Book button), call +34 923 218 482 or write to info@hotelrector.com. This assistant does not c"
+    },
+    {
+     "q": "What is the history of the building?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "It is a boutique hotel in a former house from 1930 in the historic centre of Salamanca, focused on customer service and guests' rest."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 923 218 482 · info@hotelrector.com."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 923 218 482 · info@hotelrector.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Do you have a garage?",
+    "Is there breakfast?",
+    "Where is the hotel?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "svc1"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a 14 chambres de 6 types : double, double supérieure, Junior Suite intérieure, Suite Deluxe, familiale et individuelle deluxe. Toutes a"
+    },
+    {
+     "q": "Nous sommes cinq, avez-vous une chambre familiale ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La chambre familiale se compose de deux chambres doubles complètes avec deux salles de bains, reliées par un couloir privé, pour 5 personnes"
+    },
+    {
+     "q": "Avez-vous un garage ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui : un parking privé réservé aux clients, avec accès direct depuis le hall de l'hôtel. Il est très facile d'arriver en voiture."
+    },
+    {
+     "q": "J'ai une voiture électrique, puis-je la recharger ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui : le garage dispose de plusieurs bornes de recharge pour tout type de véhicule électrique, jusqu'à 22 kW."
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Un petit-déjeuner buffet exclusif est servi dans la salle à manger et une carte de room service est proposée. La cafétéria et les salons son"
+    },
+    {
+     "q": "Y a-t-il une salle de sport ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, l'hôtel dispose d'une petite salle de sport parfaitement équipée."
+    },
+    {
+     "q": "Où se trouve l'hôtel ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "L'hôtel se trouve P.º del Rector Esperabé, 10, 37008 Salamanque, dans le centre historique, près de la Casa Lis, de la cathédrale et du pont"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur la page de réservation de leur site (bouton Réserver), appeler le +34 923 218 482 ou écrire à info@hotelrector.com."
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur la page de réservation de leur site (bouton Réserver), appeler le +34 923 218 482 ou écrire à info@hotelrector.com."
+    },
+    {
+     "q": "Quelle est l'histoire du bâtiment ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "C'est un hôtel boutique installé dans une ancienne maison de 1930 du centre historique de Salamanque, où priment le service et le repos des "
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 923 218 482 · info@hotelrector.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 923 218 482 · info@hotelrector.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Avez-vous un garage ?",
+    "Y a-t-il un petit-déjeuner ?",
+    "Où se trouve l'hôtel ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt 14 Zimmer in 6 Kategorien: Doppelzimmer, Superior-Doppelzimmer, Junior Suite Interior, Suite Deluxe, Familienzimmer und Einzelzimmer"
+    },
+    {
+     "q": "Wir sind fünf, gibt es ein Familienzimmer?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Das Familienzimmer besteht aus zwei vollständigen Doppelzimmern mit zwei Bädern, verbunden durch einen privaten Flur, für bis zu 5 Gäste. Di"
+    },
+    {
+     "q": "Haben Sie eine Garage?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja: Es gibt eine private Garage nur für Hotelgäste mit direktem Zugang von der Lobby. Die Anreise mit dem Auto ist sehr einfach."
+    },
+    {
+     "q": "Ich habe ein Elektroauto, kann ich es laden?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja: Die Garage hat mehrere Ladepunkte für alle Arten von Elektrofahrzeugen mit bis zu 22 kW Ladeleistung."
+    },
+    {
+     "q": "Gibt es Frühstück?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Im Speisesaal gibt es ein exklusives Frühstücksbuffet sowie eine Room-Service-Karte. Cafeteria und Salons sind nur für Hotelgäste."
+    },
+    {
+     "q": "Gibt es einen Fitnessraum?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ja, das Hotel hat einen kleinen, bestens ausgestatteten Fitnessraum."
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Das Hotel liegt am P.º del Rector Esperabé, 10, 37008 Salamanca, in der Altstadt, nahe der Casa Lis, der Kathedrale und der Römerbrücke, wen"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsseite der Website buchen (Schaltfläche Buchen), unter +34 923 218 482 anrufen oder an info@hotelrector.com schre"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsseite der Website buchen (Schaltfläche Buchen), unter +34 923 218 482 anrufen oder an info@hotelrector.com schre"
+    },
+    {
+     "q": "Welche Geschichte hat das Gebäude?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Es ist ein Boutique-Hotel in einem ehemaligen Haus von 1930 in der Altstadt von Salamanca, bei dem Service und Erholung der Gäste im Mittelp"
+    },
+    {
+     "q": "Was kostet eine Übernachtung?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 923 218 482 · info@hotelrector.com."
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 923 218 482 · info@hotelrector.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Haben Sie eine Garage?",
+    "Gibt es Frühstück?",
+    "Wo liegt das Hotel?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
